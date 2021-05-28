@@ -13,7 +13,7 @@ header h2 {
 	text-indent: 30px;
 }
 
-header h3 {
+header h3 em {
 	font-size: 130%;
 	font-style: italic;
 	text-indent: 30px;
